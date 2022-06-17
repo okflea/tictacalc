@@ -1,2 +1,3 @@
-# tictacalc
-tic tac toe &amp; calc
+# TictacalC
+Play tic tac toe &amp; use scientific calculator simultaneously! 
+ 
